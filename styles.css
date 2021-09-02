@@ -91,7 +91,7 @@ p,
 /*----------------SideNav End----------------*/
 
 main {
-  width: auto;
+  width: fit-content;
   padding-left: 2%;
   
 }
